@@ -1,0 +1,7 @@
+# robots.txt for your site
+# Allow all crawlers. If you want to block any path, add Disallow lines.
+User-agent: *
+Allow: /
+
+# Sitemap location - replace with your actual domain
+Sitemap: https://tusitio.com/sitemap.xml
