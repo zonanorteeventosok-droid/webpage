@@ -3,5 +3,5 @@
 User-agent: *
 Allow: /
 
-# Sitemap location - replace with your actual domain
-Sitemap: https://tusitio.com/sitemap.xml
+# Sitemap real del sitio
+Sitemap: https://zonanorteeventos.netlify.app/sitemap.xml
